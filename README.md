@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @keylies23 a.k.a Haris Nasri
-- 👀 I’m interested in Front End Dev
-- 🌱 I’m currently learning React Native and Python
+- 👀 Self proclaim programmer. 
+- 🌱 interest in web and mobile app development. currently learning flutter. ;) 
 
 <!---
 keylies23/keylies23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
